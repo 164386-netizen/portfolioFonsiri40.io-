@@ -10,7 +10,7 @@
 }
 
 body{
-    background:linear-gradient(135deg, #EAF6FF, #CFE8F9, #B7D8F5);
+    background:linear-gradient(135deg, #F4FBFF 0%, #D8EEFF 50%, #BFDFFF 100%);
     color:#333;
 }
 
