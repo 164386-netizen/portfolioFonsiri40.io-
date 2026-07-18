@@ -211,9 +211,10 @@ footer{
     background:#6F8FAF;
     text-align:center;
     padding:20px;
+}
+footer p{
     color:white;
 }
-
 /* ==========================
    TOP BUTTON
 ========================== */
